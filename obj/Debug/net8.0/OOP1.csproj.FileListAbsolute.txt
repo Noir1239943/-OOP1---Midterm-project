@@ -1,0 +1,14 @@
+C:\Users\Wayne\OneDrive\Desktop\OOP1\bin\Debug\net8.0\OOP1.exe
+C:\Users\Wayne\OneDrive\Desktop\OOP1\bin\Debug\net8.0\OOP1.deps.json
+C:\Users\Wayne\OneDrive\Desktop\OOP1\bin\Debug\net8.0\OOP1.runtimeconfig.json
+C:\Users\Wayne\OneDrive\Desktop\OOP1\bin\Debug\net8.0\OOP1.dll
+C:\Users\Wayne\OneDrive\Desktop\OOP1\bin\Debug\net8.0\OOP1.pdb
+C:\Users\Wayne\OneDrive\Desktop\OOP1\obj\Debug\net8.0\OOP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wayne\OneDrive\Desktop\OOP1\obj\Debug\net8.0\OOP1.AssemblyInfoInputs.cache
+C:\Users\Wayne\OneDrive\Desktop\OOP1\obj\Debug\net8.0\OOP1.AssemblyInfo.cs
+C:\Users\Wayne\OneDrive\Desktop\OOP1\obj\Debug\net8.0\OOP1.csproj.CoreCompileInputs.cache
+C:\Users\Wayne\OneDrive\Desktop\OOP1\obj\Debug\net8.0\OOP1.dll
+C:\Users\Wayne\OneDrive\Desktop\OOP1\obj\Debug\net8.0\refint\OOP1.dll
+C:\Users\Wayne\OneDrive\Desktop\OOP1\obj\Debug\net8.0\OOP1.pdb
+C:\Users\Wayne\OneDrive\Desktop\OOP1\obj\Debug\net8.0\OOP1.genruntimeconfig.cache
+C:\Users\Wayne\OneDrive\Desktop\OOP1\obj\Debug\net8.0\ref\OOP1.dll
